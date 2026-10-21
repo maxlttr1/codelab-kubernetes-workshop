@@ -51,4 +51,4 @@ database:
     password: "postgres"
 
 ingress:
-  hostname: "helm-<student-X>.devshop.codelab.dwidwi.tech"
+  hostname: "helm-student-17.devshop.codelab.dwidwi.tech"
